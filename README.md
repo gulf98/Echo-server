@@ -2,7 +2,7 @@
 Course: Python QA Engineer - 2022 (OTUS).\
  Homework 11: Echo server.
 
-The server receives a request from the client and sends back:
+The server receives a GET request from the client and sends back:
 - received headers
 - response body with
     - request method
